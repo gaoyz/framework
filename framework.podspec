@@ -7,10 +7,7 @@ Pod::Spec.new do |s|
   s.homepage = 'http://bee-framework.com'
   s.author = { 'gavinkwoe' => 'gavinkwoe@gmail.com' }
   s.license = 'MIT'
-  s.source = {
-    :git => 'https://github.com/gaoyz/framework.git',
-    :tag => s.version.to_s
-  }
+  s.source = { :git => 'https://github.com/gaoyz/framework.git' }
   s.libraries = 'z', 'xml2', 'sqlite3'
   s.vendored_libraries = 'services/**/*.a'
   s.requires_arc = false
