@@ -54,6 +54,7 @@ Pod::Spec.new do |s|
   
   s.subspec 'Toast' do |sp|
     sp.source_files = 'framework/vendor/Toast/*.{h,m}'
+    sp.requires_arc = false
   end
 
   s.subspec 'UMAnalytics_Sdk_2.2.1.OpenUDID' do |sp|
