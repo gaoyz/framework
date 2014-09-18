@@ -1,0 +1,73 @@
+10
+
+dir
+31821
+http://gaoyuzhou@svn.huayu.nd/svn/2013/%E4%BB%A3%E7%A0%81/%E6%89%8B%E6%9C%BA/IOS/IndustryEducation/trunk/IndustryEducation/IndustryEducation/framework/services
+http://gaoyuzhou@svn.huayu.nd/svn/2013
+
+
+
+2014-04-23T05:33:57.842125Z
+27580
+zhengzd
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e3f22ba0-1516-e64c-a364-3ff59849a8a8
+
+bee.services.share.weixin
+dir
+
+bee.services.inspector
+dir
+
+bee.services.location
+dir
+
+bee.services.network.browser
+dir
+
+bee.services.push
+dir
+
+bee.services.logger
+dir
+
+bee.services.alipay
+dir
+
+bee.services.share.sinaweibo
+dir
+
+bee.services.debugger
+dir
+
+bee.services.grid
+dir
+
+bee.services.share.tencentweibo
+dir
+
+bee.services.network
+dir
+
+bee.services.network.server
+dir
+
+bee.services.wizard
+dir
+
+bee.services.share
+dir
+
